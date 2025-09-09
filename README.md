@@ -1,1 +1,1 @@
-Đây là README từ nhánh main.
+Đây là nội dung README từ nhánh conflict-demo.
